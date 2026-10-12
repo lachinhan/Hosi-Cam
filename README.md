@@ -203,6 +203,17 @@ Mọi sự đóng góp của bạn là nguồn động lực to lớn giúp dự
 
 ---
 
+## 📬 Liên Hệ Tác Giả (Contact & Support)
+
+Nếu bạn cần hỗ trợ kỹ thuật, góp ý tính năng, báo lỗi hoặc trao đổi hợp tác, vui lòng liên hệ trực tiếp với tác giả qua:
+
+- **Facebook**: [facebook.com/nhanlc](https://www.facebook.com/nhanlc)
+- **Zalo**: [0908107000](https://zalo.me/0908107000)
+- **WhatsApp**: [+84 908 107 000](https://wa.me/84908107000)
+- **Telegram**: [0908107000](https://t.me/+84908107000)
+
+---
+
 <div align="center">
 
 **HosiCam © 2026 — Kiến Tạo Chuẩn Mực Mới Cho Video Webcam Bản Địa**  
