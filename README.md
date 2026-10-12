@@ -192,6 +192,17 @@ Hosi Cam/
 
 ---
 
+## 💖 Ủng Hộ & Quyên Góp (Donate)
+
+Nếu bạn thấy **HosiCam** hữu ích cho công việc và trải nghiệm của mình, bạn có thể ủng hộ tác giả qua:
+
+- **MB Bank**: `0908107000` (LA CHI NHAN)
+- **MoMo**: `0908107000` (LA CHI NHAN)
+
+Mọi sự đóng góp của bạn là nguồn động lực to lớn giúp dự án tiếp tục được duy trì, tối ưu và phát triển các tính năng mới trong tương lai! Cảm ơn bạn rất nhiều! 🙏
+
+---
+
 <div align="center">
 
 **HosiCam © 2026 — Kiến Tạo Chuẩn Mực Mới Cho Video Webcam Bản Địa**  
