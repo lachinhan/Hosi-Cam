@@ -13,6 +13,8 @@
 [![Architecture](https://img.shields.io/badge/Architecture-3--Thread%20Zero--Alloc-success.svg)](#kiến-trúc-hệ-thống)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#)
 
+[🇻🇳 Tiếng Việt](README.md) | [🇬🇧 English](README_EN.md)
+
 </div>
 
 ---
